@@ -3,4 +3,4 @@ This is just a test readme file.
 
 Jon Falcon
 
-All Rights Reserved May 2014.
+All Rights Reserved. May 2014.
