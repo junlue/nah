@@ -1,4 +1,3 @@
-# Testing
 # Some random text should be here.
 This is just a test readme file.
 
